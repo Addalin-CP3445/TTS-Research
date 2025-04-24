@@ -18,7 +18,12 @@ This repository documents my initial research and experimentation with Text-to-S
 - [**OpenAI Whisper**](https://github.com/openai/whisper): On-premise, MIT-licensed, and highly effective for multilingual transcription.  
 - [**Voice AI**](https://www.neuralspace.ai/voiceai): API-only service; not available for local deployment.  
   > ⚠️ **Note**: Voice AI by Neuralspace is in the process of shutting down.  
-- [**ElevenLabs**](https://elevenlabs.io/docs/quickstart): Also API-based and not deployable on-premise.  
+- [**ElevenLabs**](https://elevenlabs.io/docs/quickstart): Also API-based and not deployable on-premise.
+
+---
+
+A demo of the initial research is available at:  
+👉 [**GITS-TTS-and-STT-Demo**](https://github.com/Addalin-CP3445/GITS-TTs-and-STT-Demo)  
 
 ---
 
