@@ -25,6 +25,9 @@ This repository documents my initial research and experimentation with Text-to-S
 A demo of the initial research is available at:  
 👉 [**GITS-TTS-and-STT-Demo**](https://github.com/Addalin-CP3445/GITS-TTs-and-STT-Demo)  
 
+Colab demo of different pre-trained Arabic TTS:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JkEkdtaOMMFehbA-GClmj8ZKAwgylRp0?usp=sharing)
+
 ---
 
 ## 📚 Open-Source Research
